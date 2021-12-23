@@ -1,4 +1,4 @@
 # GTK3 Tutorial files
 
-- Example_1.c
-- Example_2.c
+- example_0.c
+- example_1.c
